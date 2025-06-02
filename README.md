@@ -67,10 +67,10 @@ This project demonstrates the full pipeline of:
 - Scikit-learn
 
 ---
-##  Video link
+
 
 ##  Dataset Source
 - [Titanic Dataset – Kaggle](https://www.kaggle.com/competitions/titanic/data)
 
 ---
-
+##  Video link
