@@ -59,7 +59,7 @@ This project demonstrates the full pipeline of:
 
 ---
 
-##  Tools & Libraries Used
+##  Tools & Libraries Used Video link
 - Python
 - Pandas
 - NumPy
@@ -67,6 +67,7 @@ This project demonstrates the full pipeline of:
 - Scikit-learn
 
 ---
+##  Video link
 
 ##  Dataset Source
 - [Titanic Dataset – Kaggle](https://www.kaggle.com/competitions/titanic/data)
