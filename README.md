@@ -73,4 +73,3 @@ This project demonstrates the full pipeline of:
 - [Titanic Dataset – Kaggle](https://www.kaggle.com/competitions/titanic/data)
 
 ---
-##  Video link
